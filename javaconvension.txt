@@ -4,7 +4,19 @@ Java is a simple language.
 Java is Object-Oriented Language.
 Java is  platform Independent. 
 
+oops concepts
+Abstraction.
+Encapsulation
+Polymorphism.
+Inheritance.
+
+Done.
+
+
+
+
 
 
 ThankYou.
 Final Copy.
+
